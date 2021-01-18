@@ -1,4 +1,4 @@
-export const STREAM_LIST = [
+const STREAM_LIST = [
   {
     projectName: "Todo List",
     joinVia: "VS Code Liveshare",
@@ -18,3 +18,4 @@ export const STREAM_LIST = [
     hostLocation: "NYC",
   },
 ];
+export default STREAM_LIST
